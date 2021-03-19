@@ -676,6 +676,11 @@
         .footer {
           height: 18rem;
         }
+        
+         .myInput {
+            width: 30rem;
+          }
+        
       }
 
 
